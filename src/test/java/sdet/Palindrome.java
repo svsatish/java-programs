@@ -1,6 +1,6 @@
-package programs;
+package sdet;
 
-public class CheckForPalindrome {
+public class Palindrome {
 
     public static void main(String[] args){
 

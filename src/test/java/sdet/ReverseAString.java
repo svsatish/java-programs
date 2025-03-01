@@ -1,4 +1,4 @@
-package programs;
+package sdet;
 
 import java.util.Scanner;
 
